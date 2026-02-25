@@ -2,7 +2,7 @@
 
 A collaborative guide by:
 1. Kimuyu Carlos
-2. 
+2. Loise Owoko
 
 ## Table of Contents
 - Introduction
@@ -26,7 +26,59 @@ The process involves feeding training data into an algorithm to create a model, 
 Machine learning allows computers to behave like humans by learning from past experiences(DATA) to make informed decisions.
 
 ## Deep Learning
-<!-- [Team Member 2 Name] will write this section -->
+
+**Deep Learning** is a subset of Artificial Intelligence (AI) and Machine Learning (ML) that uses neural networks with many layers (called *deep neural networks*) to analyze data and make decisions.
+
+It is inspired by how the human brain processes information.
+
+---
+
+### How It Works
+
+Deep learning models use multiple layers of artificial neurons to:
+- Detect patterns in data
+- Learn from large datasets
+- Improve accuracy over time
+
+Each layer extracts more complex features from the data.
+
+For example:
+- In image recognition, early layers detect edges.
+- Middle layers detect shapes.
+- Final layers recognize full objects (like a cat or car).
+
+---
+
+### Where Deep Learning Is Used
+
+- Face recognition systems
+- Self-driving cars
+- Chatbots and virtual assistants
+- Medical diagnosis systems
+- Language translation tools
+
+---
+
+### Key Concepts
+
+- **Neural Networks**
+- Backpropagation
+- Training data
+- Activation functions
+- Overfitting
+
+---
+
+### Why It Matters
+
+Deep learning powers many modern AI systems and has significantly improved performance in areas like computer vision and natural language processing.
+
+---
+
+### Useful Resources
+
+- https://www.ibm.com/topics/deep-learning
+- https://www.tensorflow.org/tutorials
 
 ## Neural Network
 <!-- [Team Member 3 Name] will write this section -->
