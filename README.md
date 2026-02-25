@@ -3,7 +3,7 @@
 A collaborative guide by:
 1. [Kimuyu Carlos](https://github.com/kimuyuboh-blip/kimuyuboh-blip)
 2. Loise Owoko
-3. [Francis lealmusia](https://(https://github.com/lealmusia-francis)
+3. [Francis Lealmusia](https://github.com/francis-lealmusia)
 ## Table of Contents
 - Introduction
 - Machine Learning (ML)
