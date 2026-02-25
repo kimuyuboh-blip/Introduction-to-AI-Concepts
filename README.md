@@ -81,4 +81,18 @@ Deep learning powers many modern AI systems and has significantly improved perfo
 - https://www.tensorflow.org/tutorials
 
 ## Neural Network
-<!-- [Team Member 3 Name] will write this section -->
+An Artificial Neural Network (ANN) is a computational model inspired by the structure and functioning of the human brain. It consists of a network of interconnected nodes, called artificial neurons, that process input information and generate an output.
+each artificial neuron receives one or more inputs and processes them using an activation function, which determines the neuron's output.
+It was built to mimic aspects of human intelligence, such as learning and decision making.
+A neuron receives input from multiple neurons and transmits signals to multiple neurons.
+
+###Types of Artificial Neural Networks 
+- Feedforward Neural Network
+- Modular Neural Network
+- Radial Neural Network
+- Konohen Self Organising Neural Network
+- Recurrent Neural Network
+  
+###Resources
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11576090/
+- https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm
