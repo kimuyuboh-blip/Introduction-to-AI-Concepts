@@ -1,7 +1,7 @@
 # Introduction-to-AI-Concepts
 
 A collaborative guide by:
-1. Kimuyu Carlos
+1. [Kimuyu Carlos](https://github.com/kimuyuboh-blip/kimuyuboh-blip)
 2. Loise Owoko
 3. Franci Lealmusia
 ## Table of Contents
