@@ -3,7 +3,7 @@
 A collaborative guide by:
 1. Kimuyu Carlos
 2. Loise Owoko
-
+3. Franci Lealmusia
 ## Table of Contents
 - Introduction
 - Machine Learning (ML)
