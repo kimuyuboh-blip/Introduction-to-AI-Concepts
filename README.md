@@ -148,3 +148,6 @@ Music composition
 Video generation
 ### Resources 
 - https://chat.openai.com
+- https://www.netflix.com
+- https://www.amazon.com
+  
