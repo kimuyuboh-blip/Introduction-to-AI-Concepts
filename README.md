@@ -2,7 +2,7 @@
 
 A collaborative guide by:
 1. [Kimuyu Carlos](https://github.com/kimuyuboh-blip/kimuyuboh-blip)
-2. Loise Owoko
+2. [Loise Owoko](https://github.com/Loise-Owoko)
 3. [Francis Lealmusia](https://github.com/francis-lealmusia)
 ## Table of Contents
 - Introduction
