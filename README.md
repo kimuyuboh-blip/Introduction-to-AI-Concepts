@@ -146,4 +146,5 @@ Text generation (e.g., ChatGPT)
 Image generation (e.g., DALL·E)
 Music composition
 Video generation
-
+### Resources 
+- https://chat.openai.com
