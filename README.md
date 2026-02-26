@@ -102,3 +102,48 @@ A neuron receives input from multiple neurons and transmits signals to multiple 
 
 ---
 ## Common AI Applications
+Common AI application are Software programs and systems that use techniques like machine learning (ML), natural language processing (NPL) and computer vision to perform tasks.
+ Here is a structured list of common AI applications
+### Common AI Applications
+- Natural Language Processing (NLP)
+AI systems that understand and generate human language.
+Chatbots (e.g., customer support bots)
+Virtual assistants like Siri, Google Assistant, and Alexa
+Language translation (e.g., Google Translate)
+Sentiment analysis
+Text summarization
+- Computer Vision
+AI systems that interpret and analyze visual data.
+Facial recognition systems
+Object detection in images and videos
+Medical image analysis (X-rays, MRIs)
+Autonomous vehicle vision systems (e.g., Tesla, Inc. Autopilot)
+- Machine Learning in Healthcare
+AI used to improve medical outcomes.
+Disease prediction
+Drug discovery
+Personalized treatment recommendations
+Robotic surgeries (e.g., Da Vinci Surgical System)
+- Financial Services
+AI applications in banking and finance.
+Fraud detection
+Algorithmic trading
+Credit scoring
+Risk assessment
+- Recommendation Systems
+AI systems that suggest relevant content.
+Movie recommendations (e.g., Netflix, Inc.)
+Product recommendations (e.g., Amazon.com, Inc.)
+Music suggestions (e.g., Spotify)
+- Autonomous Systems
+AI-powered machines that operate independently.
+Self-driving cars (e.g., Waymo)
+Drones
+Industrial robots
+- Generative AI
+AI systems that create new content.
+Text generation (e.g., ChatGPT)
+Image generation (e.g., DALL·E)
+Music composition
+Video generation
+
