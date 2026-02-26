@@ -4,7 +4,7 @@ A collaborative guide by:
 1. [Kimuyu Carlos](https://github.com/kimuyuboh-blip/kimuyuboh-blip)
 2. [Loise Owoko](https://github.com/Loise-Owoko)
 3. [Francis Lealmusia](https://github.com/francis-lealmusia)
-4. 
+4. [favour299](https://github.com/favour299)
 ## Table of Contents
 - Introduction
 - Machine Learning (ML)
