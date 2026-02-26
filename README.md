@@ -89,16 +89,16 @@ each artificial neuron receives one or more inputs and processes them using an a
 It was built to mimic aspects of human intelligence, such as learning and decision making.
 A neuron receives input from multiple neurons and transmits signals to multiple neurons.
 
-###Types of Artificial Neural Networks 
+### Types of Artificial Neural Networks 
 - Feedforward Neural Network
 - Modular Neural Network
 - Radial Neural Network
 - Konohen Self Organising Neural Network
 - Recurrent Neural Network
   
-###Resources
+### Resources
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC11576090/
 - https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm
 
 ---
-##Common AI Applications
+## Common AI Applications
