@@ -4,11 +4,13 @@ A collaborative guide by:
 1. [Kimuyu Carlos](https://github.com/kimuyuboh-blip/kimuyuboh-blip)
 2. [Loise Owoko](https://github.com/Loise-Owoko)
 3. [Francis Lealmusia](https://github.com/francis-lealmusia)
+4. 
 ## Table of Contents
 - Introduction
 - Machine Learning (ML)
 - Deep Learning
 - Neural Network
+- Common AI Applications
 
 ## Introduction
 Artificial Intelligence (AI)- Creating computer systems that can think, learn and make decisions in ways that feel human.
@@ -80,6 +82,7 @@ Deep learning powers many modern AI systems and has significantly improved perfo
 - https://www.ibm.com/topics/deep-learning
 - https://www.tensorflow.org/tutorials
 
+---
 ## Neural Network
 An Artificial Neural Network (ANN) is a computational model inspired by the structure and functioning of the human brain. It consists of a network of interconnected nodes, called artificial neurons, that process input information and generate an output.
 each artificial neuron receives one or more inputs and processes them using an activation function, which determines the neuron's output.
@@ -96,3 +99,6 @@ A neuron receives input from multiple neurons and transmits signals to multiple 
 ###Resources
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC11576090/
 - https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm
+
+---
+##Common AI Applications
