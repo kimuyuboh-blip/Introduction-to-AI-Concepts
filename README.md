@@ -3,8 +3,8 @@
 A collaborative guide by:
 1. [Kimuyu Carlos](https://github.com/kimuyuboh-blip/kimuyuboh-blip)
 2. [Loise Owoko](https://github.com/Loise-Owoko)
-3. [Francis Lealmusia](https://github.com/francis-lealmusia)
-4. [favour299](https://github.com/favour299)
+3. [Francis Lealmusia](https://github.com/lealmusia-francis)
+4. [Favour Azu](https://github.com/favour299)
 ## Table of Contents
 - Introduction
 - Machine Learning (ML)
@@ -27,13 +27,26 @@ The process involves feeding training data into an algorithm to create a model, 
 
 Machine learning allows computers to behave like humans by learning from past experiences(DATA) to make informed decisions.
 
+### Types of Learning:
+
+1. Supervised Learning: Algorithms are trained on labeled data (input-output pairs)
+to classify information or predict outcomes.
+
+2. Unsupervised Learning: Algorithms find hidden patterns or structures in 
+unlabeled data, such as clustering customers by behavior.
+
+3. Reinforcement Learning: Systems learn by trial and error, receiving rewards 
+or penalties for their actions.
+
+
+---
+
 ## Deep Learning
 
 **Deep Learning** is a subset of Artificial Intelligence (AI) and Machine Learning (ML) that uses neural networks with many layers (called *deep neural networks*) to analyze data and make decisions.
 
 It is inspired by how the human brain processes information.
 
----
 
 ### How It Works
 
@@ -49,7 +62,6 @@ For example:
 - Middle layers detect shapes.
 - Final layers recognize full objects (like a cat or car).
 
----
 
 ### Where Deep Learning Is Used
 
@@ -59,7 +71,6 @@ For example:
 - Medical diagnosis systems
 - Language translation tools
 
----
 
 ### Key Concepts
 
@@ -69,13 +80,11 @@ For example:
 - Activation functions
 - Overfitting
 
----
 
 ### Why It Matters
 
 Deep learning powers many modern AI systems and has significantly improved performance in areas like computer vision and natural language processing.
 
----
 
 ### Useful Resources
 
@@ -83,6 +92,7 @@ Deep learning powers many modern AI systems and has significantly improved perfo
 - https://www.tensorflow.org/tutorials
 
 ---
+
 ## Neural Network
 An Artificial Neural Network (ANN) is a computational model inspired by the structure and functioning of the human brain. It consists of a network of interconnected nodes, called artificial neurons, that process input information and generate an output.
 each artificial neuron receives one or more inputs and processes them using an activation function, which determines the neuron's output.
@@ -101,51 +111,46 @@ A neuron receives input from multiple neurons and transmits signals to multiple 
 - https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm
 
 ---
+
 ## Common AI Applications
 Common AI application are Software programs and systems that use techniques like machine learning (ML), natural language processing (NPL) and computer vision to perform tasks.
  Here is a structured list of common AI applications
-### Common AI Applications
-- Natural Language Processing (NLP)
-AI systems that understand and generate human language.
-Chatbots (e.g., customer support bots)
-Virtual assistants like Siri, Google Assistant, and Alexa
-Language translation (e.g., Google Translate)
-Sentiment analysis
-Text summarization
-- Computer Vision
-AI systems that interpret and analyze visual data.
-Facial recognition systems
-Object detection in images and videos
-Medical image analysis (X-rays, MRIs)
-Autonomous vehicle vision systems (e.g., Tesla, Inc. Autopilot)
-- Machine Learning in Healthcare
-AI used to improve medical outcomes.
-Disease prediction
-Drug discovery
-Personalized treatment recommendations
-Robotic surgeries (e.g., Da Vinci Surgical System)
-- Financial Services
-AI applications in banking and finance.
-Fraud detection
-Algorithmic trading
-Credit scoring
-Risk assessment
-- Recommendation Systems
-AI systems that suggest relevant content.
-Movie recommendations (e.g., Netflix, Inc.)
-Product recommendations (e.g., Amazon.com, Inc.)
-Music suggestions (e.g., Spotify)
-- Autonomous Systems
-AI-powered machines that operate independently.
-Self-driving cars (e.g., Waymo)
-Drones
-Industrial robots
-- Generative AI
-AI systems that create new content.
-Text generation (e.g., ChatGPT)
-Image generation (e.g., DALL·E)
-Music composition
-Video generation
+ 
+- Natural Language Processing (NLP)- AI systems that understand and generate human language.
+  1. Chatbots (e.g., customer support bots)
+  2. Virtual assistants like Siri, Google Assistant, and Alexa
+  3. Language translation (e.g., Google Translate)
+  4. Sentiment analysis
+  5. Text summarization
+- Computer Vision- AI systems that interpret and analyze visual data.
+  1. Facial recognition systems
+  2. Object detection in images and videos
+  3. Medical image analysis (X-rays, MRIs)
+  4. Autonomous vehicle vision systems (e.g., Tesla, Inc. Autopilot)
+- Machine Learning in Healthcare- AI used to improve medical outcomes.
+  1. Disease prediction
+  2. Drug discovery
+  3. Personalized treatment recommendations
+  4. Robotic surgeries (e.g., Da Vinci Surgical System)
+- Financial Services- AI applications in banking and finance.
+  1. Fraud detection
+  2. Algorithmic trading
+  3. Credit scoring
+  4. Risk assessment
+- Recommendation Systems- AI systems that suggest relevant content.
+  1. Movie recommendations (e.g., Netflix, Inc.)
+  2. Product recommendations (e.g., Amazon.com, Inc.)
+  3. Music suggestions (e.g., Spotify)
+- Autonomous Systems- AI-powered machines that operate independently.
+  1. Self-driving cars (e.g., Waymo)
+  2. Drones
+  3. Industrial robots
+- Generative AI- AI systems that create new content.
+  1. Text generation (e.g., ChatGPT)
+  2. Image generation (e.g., DALL·E)
+  3. Music composition
+  4. Video generation
+
 ### Resources 
 - https://chat.openai.com
 - https://www.netflix.com
